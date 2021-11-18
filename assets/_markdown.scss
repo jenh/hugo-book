@@ -1,7 +1,7 @@
 @import "variables";
 
 .markdown {
-  line-height: 1.6;
+  line-height: 1.3;
 
   // remove padding at the beginning of page
   > :first-child {
@@ -14,6 +14,7 @@
   h4,
   h5,
   h6 {
+    font-family: 'Roboto','Helvetica','Futura','Arial',sans-serif;
     font-weight: normal;
     line-height: 1;
     margin-top: 1.5em;
